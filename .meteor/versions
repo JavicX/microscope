@@ -43,6 +43,7 @@ iron:location@1.0.11
 iron:middleware-stack@1.1.0
 iron:router@1.1.2
 iron:url@1.1.0
+javicx:errors@1.0.0
 jquery@1.11.10
 launch-screen@1.1.1
 livedata@1.0.18
@@ -59,6 +60,7 @@ modules@0.7.9
 modules-runtime@0.7.9
 mongo@1.1.16
 mongo-id@1.0.6
+mongo-livedata@1.0.12
 npm-bcrypt@0.9.2
 npm-mongo@2.2.24
 observe-sequence@1.0.16
