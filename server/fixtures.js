@@ -70,7 +70,7 @@ if (Posts.find().count() === 0) {
       author: sacha.profile.name,
       userId: sacha._id, url: 'http://google.com/?q=test-' + i,
       submitted: new Date(now - i * 3600 * 1000),
-      commentsCount: 2,
+      commentsCount: 0,
       upvoters: [],
       votes: 0
     });
